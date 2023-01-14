@@ -10,6 +10,9 @@ header {
 	overflow: hidden;
 	border-radius: 0 0 85% 85% / 30%;
 }
+
+* {font-family:"Roboto";}
+
 header .overlay{
 	width: 100%;
 	height: 100%;
@@ -21,7 +24,7 @@ header .overlay{
 }
 
 h1 {
-	font-family: 'Dancing Script';
+	font-family: "Dancing Script";
 	font-size: 80px;
 	margin-bottom: 30px;
 }
